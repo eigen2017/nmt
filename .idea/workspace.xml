@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e33aa155-d36e-48d4-acdb-b75ebe1dbc77" name="Default" comment="" />
+    <list default="true" id="e33aa155-d36e-48d4-acdb-b75ebe1dbc77" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nmt_data/train.en" afterPath="$PROJECT_DIR$/nmt_data/train.en" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nmt_data/train.vi" afterPath="$PROJECT_DIR$/nmt_data/train.vi" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +30,8 @@
       <file leaf-file-name="model.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nmt/model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1919">
-              <caret line="233" column="42" lean-forward="false" selection-start-line="233" selection-start-column="25" selection-end-line="233" selection-end-column="42" />
+            <state relative-caret-position="456">
+              <caret line="358" column="65" lean-forward="true" selection-start-line="358" selection-start-column="65" selection-end-line="358" selection-end-column="65" />
               <folding>
                 <element signature="n#!!doc" expanded="false" />
                 <element signature="e#20247#25538#0" expanded="false" />
@@ -178,10 +181,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="28" width="1922" height="1019" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -232,14 +236,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/nmt_data/train.vi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nmt/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -306,10 +302,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/nmt_data/train.vi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2532723">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nmt_data/train.en">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="3165" column="0" lean-forward="true" selection-start-line="3165" selection-start-column="0" selection-end-line="3165" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/nmt/model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1919">
-          <caret line="233" column="42" lean-forward="false" selection-start-line="233" selection-start-column="25" selection-end-line="233" selection-end-column="42" />
+        <state relative-caret-position="456">
+          <caret line="358" column="65" lean-forward="true" selection-start-line="358" selection-start-column="65" selection-end-line="358" selection-end-column="65" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
             <element signature="e#20247#25538#0" expanded="false" />
